@@ -1,5 +1,5 @@
-body {
-	background: blue
+body{
+	background: blue;
 	width: 970px;
 	margin: 0 auto;
 }
@@ -8,6 +8,6 @@ h1{
 	font-size: 40px;
 }
 
-body div {
+body div{
 	font-size: 24px;
 }
